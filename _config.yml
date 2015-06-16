@@ -1,6 +1,6 @@
 # Site settings
 title:       JDEAiO.com
-email:       admin@jdeaio.com
+email:       hello@jdeaio.com
 author:      Philip Anderson
 description: "Build a fully functional JD Edwards standalone VM"
 baseurl:     ""
@@ -12,7 +12,7 @@ google_analytics:
 # Optional features
 animated:           false
 show_related_posts: false
-show_post_footers:  false
+show_post_footers:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -35,9 +35,9 @@ show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
+share_twitter: true
+share_googleplus: true
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
